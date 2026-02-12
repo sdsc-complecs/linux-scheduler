@@ -43,6 +43,8 @@ To complete the exercises covered in this tutorial, you will need access to a co
 ### Tutorial
 - Processes, Threads, and the Scheduler
 - Example problem: Estimating $\pi$ via Monte Carlo
+- Background vs. Foreground Processes
+- Controlling Process Priority
 
 ### Additional Reference(s):
 - 
