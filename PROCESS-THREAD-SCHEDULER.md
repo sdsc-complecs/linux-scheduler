@@ -7,3 +7,6 @@ A [process](https://en.wikipedia.org/wiki/Process_(computing)) is the instance o
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Program_Process_Thread_Infographic.svg' alt='NSF Logo' width='768'/>
 
+### Additional Reference(s):
+- [Stack Overflow: What is the difference between a process and a thread?](https://stackoverflow.com/questions/200469/what-is-the-difference-between-a-process-and-a-thread)
+- 
