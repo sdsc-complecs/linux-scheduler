@@ -66,3 +66,30 @@ clean:
 	rm *.x *.o
 $
 ```
+
+### Computing $\pi$ with Python
+
+We'll start with `pi.py`, which requires only one command-line argument to be specified at runtime.
+
+*Command*
+
+```
+python3 pi.py --help
+```
+
+*Output*
+
+```
+$ python3 pi.py --help
+usage: pi.py [-h] [-v] samples
+
+Estimate the value of Pi via Monte Carlo
+
+positional arguments:
+  samples        number of Monte Carlo samples
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --verbose
+$
+```
