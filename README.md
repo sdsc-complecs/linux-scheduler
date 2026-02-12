@@ -42,7 +42,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 
 ### Tutorial
 - [Processes, Threads, and the Scheduler](PROCESS-THREAD-SCHEDULER.md)
-- Example problem: Estimate $\pi$ via Monte Carlo
+- [Example problem: Estimate $\pi$ via Monte Carlo](ESTIMATE-PI.md)
 - Background vs. Foreground Processes
 - Using the `top` command
 - Process Priority and Niceness
