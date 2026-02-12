@@ -5,8 +5,7 @@ Understanding what a scheduler is and how it works is fundamental to learning ho
 In this first part of our series on Batch Computing, we will introduce you to the concept of a scheduler — what they are, why they exist, and how they work — using the Linux scheduler as our reference implementation and testbed. You will then learn how to interact with the Linux scheduler on your personal computer by running a series of example exercises intended to teach you about the most fundamental aspects of scheduling, including turning foreground processes into background ones and controlling their priority relative to the other processes running on your system. 
 
 To complete the exercises covered in Part I, you will need access to a computer with either:
-
-a Linux operating system (OS);
-a Unix-like OS such as macOS;
-a Linux-compatible OS environment such as the Windows Subsystem for Linux; or
-a virtual machine running a Linux OS through a hypervisor like VirtualBox.
+- a Linux operating system (OS);
+- a Unix-like OS such as macOS;
+- a Linux-compatible OS environment such as the Windows Subsystem for Linux; or
+- a virtual machine running a Linux OS through a hypervisor like VirtualBox.
