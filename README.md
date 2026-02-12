@@ -29,7 +29,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 
 ### Tutorial
 
-## Additional Reference(s):
+### Additional Reference(s):
 - 
 
 ## About COMPLECS
