@@ -41,11 +41,14 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
 ### Tutorial
-- [Processes, Threads, and the Scheduler](PROCESS-THREAD-SCHEDULER.md)
-- [Example problem: Estimate $\pi$ via Monte Carlo](ESTIMATE-PI.md)
-- Background vs. Foreground Processes
-- Using the `top` command
-- Process Priority and Niceness
+
+- https://github.com/mkandes/batch-computing/blob/main/NOHUP.md
+
+%- [Processes, Threads, and the Scheduler](PROCESS-THREAD-SCHEDULER.md)
+%- [Example problem: Estimate $\pi$ via Monte Carlo](ESTIMATE-PI.md)
+%- Background vs. Foreground Processes
+%- Using the `top` command
+%- Process Priority and Niceness
 
 ### Additional Reference(s):
 - 
