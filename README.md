@@ -25,6 +25,8 @@ To complete the exercises covered in Part I, you will need access to a computer 
 
 # About COMPLECS
 
-COMPLECS (COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure) is a new SDSC program where training will cover non-programming skills needed to effectively use supercomputers. Topics include parallel computing concepts, Linux tools and bash scripting, security, batch and interactive computing, how to get help, and data management.
+COMPLECS (COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure) is a CyberTraining program that
+teaches non-programming skills needed to effectively use supercomputers. Topics include parallel computing, Linux command-line
+tools, shell scripting, batch computing, data management, security, and how to get help.
 
 # Acknowledgements
