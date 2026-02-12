@@ -2,7 +2,7 @@
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_monte_carlo_all.gif' alt='NSF Logo' width='768'/>
 
-![test](https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_monte_carlo_all.gif)
+![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_monte_carlo_all.gif/834px-Pi_monte_carlo_all.gif)
 
 ![Estimate the value of Pi via Monte Carlo](https://hpc.llnl.gov/sites/default/files/styles/no_sidebar_3_up/public/pi1.gif)
 
