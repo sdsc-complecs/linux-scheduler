@@ -1,5 +1,7 @@
 # Processes, Threads, and the Scheduler
 
+### What is a process?
+
 A [process](https://en.wikipedia.org/wiki/Process_(computing)) is the instance of a 
 [computer program](https://en.wikipedia.org/wiki/Computer_program) that is being executed by one or more [threads](https://en.wikipedia.org/wiki/Thread_(computing)).
 
