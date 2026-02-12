@@ -29,3 +29,40 @@ remote: Compressing objects: 100% (10/10), done.
 remote: Total 19 (delta 4), reused 19 (delta 4), pack-reused 0
 Unpacking objects: 100% (19/19), 5.72 KiB | 977.00 KiB/s, done.
 ```
+
+### Explore the Repository
+
+Take a look at the code available in the repository. 
+
+```
+$ cd 4pi/
+$ ls
+bash  c  fortran  LICENSE.md  python  README.md
+$ ls python/
+pi.py
+$ ls fortran/
+Makefile  pi.f90  pi_omp.f90
+$ cat fortran/Makefile 
+COMPILER := gfortran
+COMPILER_OPTIONS := -ffree-form -ffree-line-length-none -fimplicit-none \
+                    -O3 -mtune=native -fdefault-integer-8 -fdefault-real-8
+
+all: pi.x pi_omp.x
+
+pi.x: pi.o
+	$(COMPILER) $(COMPILER_OPTIONS) -o pi.x pi.o
+
+pi.o: pi.f90
+	$(COMPILER) $(COMPILER_OPTIONS) -c pi.f90
+
+pi_omp.x: pi_omp.o
+	$(COMPILER) $(COMPILER_OPTIONS) -fopenmp -o pi_omp.x pi_omp.o
+
+pi_omp.o: pi_omp.f90
+	$(COMPILER) $(COMPILER_OPTIONS) -fopenmp -c pi_omp.f90
+
+.PHONY: clean
+clean:
+	rm *.x *.o
+$
+```
