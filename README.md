@@ -42,6 +42,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
 ### Tutorial
+- Example Program: Estimating $\pi$ via Monte Carlo
 
 ### Additional Reference(s):
 - 
