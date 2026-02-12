@@ -20,6 +20,9 @@ To complete the exercises covered in Part I, you will need access to a computer 
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
+# Additional Reference(s):
+- 
+
 # About COMPLECS
 
 COMPLECS (COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure) is a new SDSC program where training will cover non-programming skills needed to effectively use supercomputers. Topics include parallel computing concepts, Linux tools and bash scripting, security, batch and interactive computing, how to get help, and data management.
