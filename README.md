@@ -25,7 +25,7 @@ To complete the exercises covered in Part I, you will need access to a computer 
 
 # About COMPLECS
 
-COMPLECS (COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure) is a CyberTraining program that
+COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure (COMPLECS) is a CyberTraining program that
 teaches non-programming skills needed to effectively use supercomputers. Topics include parallel computing, Linux command-line
 tools, shell scripting, batch computing, data management, security, and how to get help.
 
