@@ -12,9 +12,11 @@ In this first part of our series on Batch Computing, we introduce you to the con
 exist, and how they work — using the Linux scheduler as our reference implementation and testbed. You will also learn how to
 interact with the Linux scheduler on your personal computer by running a series of example exercises intended to teach you about
 the most fundamental aspects of scheduling, including turning foreground processes into background ones and controlling their
-priority relative to the other processes running on your system. 
+priority relative to the other processes running on your system.
 
-To complete the exercises covered in Part I, you will need access to a computer with either:
+# Before you begin
+
+To complete the exercises covered in this tutorial, you will need access to a computer with either:
 - a Linux operating system (OS);
 - a [Unix-like](https://en.wikipedia.org/wiki/Unix-like) OS such as [macOS](https://en.wikipedia.org/wiki/MacOS);
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
