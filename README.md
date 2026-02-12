@@ -14,11 +14,11 @@ interact with the Linux scheduler on your personal computer by running a series 
 the most fundamental aspects of scheduling, including turning foreground processes into background ones and controlling their
 priority relative to the other processes running on your system.
 
-# Learning Goals
+## Learning Goals
 
-# Prerequisite Knowledge and Skills
+## Prerequisite Knowledge and Skills
 
-# Requirements
+## Requirements
 
 To complete the exercises covered in this tutorial, you will need access to a computer with either:
 
@@ -27,18 +27,18 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
-# Tutorial
+## Tutorial
 
-# Additional Reference(s):
+## Additional Reference(s):
 - 
 
-# About COMPLECS
+## About COMPLECS
 
 COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure (COMPLECS) is a CyberTraining program that
 teaches non-programming concepts and skills needed to effectively use supercomputers. Topics include parallel computing, Linux
 command-line tools, shell scripting, batch computing, data management, security, and how to get help.
 
-# Acknowledgement
+## Acknowledgement
 
 This material is based upon work supported by the [U.S. National Science Foundation](https://www.nsf.gov) under 
 [Award No. CISE/OAC-2320934](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2320934). Any opinions, findings and conclusions
