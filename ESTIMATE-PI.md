@@ -3,7 +3,7 @@
 To explore managing procesess and threads with the Linux scheduler, we'll need some example programs to run. Here, we'll use the
 [4pi](https://github.com/mkandes/4pi) project, a collection of simple computer programs that estimate the value of $\pi$. 
 
-Each program in the 4$\pi$ collection differs only in the programming language it was written in, the set of features of the
+Each program in the 4pi collection differs only in the programming language it was written in, the set of features of the
 language it utilized, and/or the underlying mathematical algorithm it implemented to approximate the value of $\pi$. The aim of
 the project is to explore different aspects of each programming language and their feature sets from a scientific and 
 high-performance computing perspective. The first set of programs included in the project estimate the value of $\pi$ via the
