@@ -18,7 +18,7 @@ priority relative to the other processes running on your system.
 
 ### Learning Goals :bulb:
 
-### Prerequisite Knowledge and Skills :graduation:
+### Prerequisite Knowledge and Skills :notebook:
 
 ### Before You Begin :running: on :penguin:
 
