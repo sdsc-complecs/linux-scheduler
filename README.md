@@ -16,7 +16,7 @@ interact with the Linux scheduler on your personal computer by running a series 
 the most fundamental aspects of scheduling, including turning foreground processes into background ones and controlling their
 priority relative to the other processes running on your system.
 
-### Learning Goals
+### Learning Goals :bulb:
 
 ### Prerequisite Knowledge and Skills
 
