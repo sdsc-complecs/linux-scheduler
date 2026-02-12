@@ -23,6 +23,8 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
+# Prerequisite knowledge required
+
 # Additional Reference(s):
 - 
 
