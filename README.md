@@ -20,7 +20,11 @@ priority relative to the other processes running on your system.
 
 ### Prerequisite Knowledge and Skills
 
-### Before You Begin
+### Before You Begin:running: on :penguin:
+
+Advanced cyberinfratructure (CI) and HPC run on [Linux](https://en.wikipedia.org/wiki/Linux). If you don't believe us, look no
+further than the latest operating system statistics from the [TOP500](https://www.top500.org/statistics/list) --- a list of the
+most powerful supercomputers in the world.
 
 To complete the exercises covered in this tutorial, you will need access to a computer with either:
 
