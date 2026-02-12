@@ -18,7 +18,7 @@ priority relative to the other processes running on your system.
 
 # Learning Goals
 
-# Before you begin
+# Before You Begin
 
 To complete the exercises covered in this tutorial, you will need access to a computer with either:
 
