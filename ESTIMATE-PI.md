@@ -1,6 +1,6 @@
 # Example Problem: Estimate $\pi$ via Monte Carlo
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_monte_carlo_all.gif' alt='NSF Logo' width='768'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_monte_carlo_all.gif/500px-Pi_monte_carlo_all.gif' alt='NSF Logo' width='768'/>
 
 ![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_monte_carlo_all.gif/250px-Pi_monte_carlo_all.gif)
 
