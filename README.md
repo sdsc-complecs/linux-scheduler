@@ -6,6 +6,6 @@ In this first part of our series on Batch Computing, we will introduce you to th
 
 To complete the exercises covered in Part I, you will need access to a computer with either:
 - a Linux operating system (OS);
-- a Unix-like OS such as macOS;
-- a Linux-compatible OS environment such as the Windows Subsystem for Linux; or
-- a virtual machine running a Linux OS through a hypervisor like VirtualBox.
+- a [Unix-like](https://en.wikipedia.org/wiki/Unix-like) OS such as [macOS](https://en.wikipedia.org/wiki/MacOS);
+- a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
+- a virtual machine running a Linux OS through a hypervisor like [VirtualBox](https://www.virtualbox.org).
