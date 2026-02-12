@@ -93,3 +93,21 @@ optional arguments:
   -v, --verbose
 $
 ```
+
+### Estimating $\pi$ for the first time
+
+Start by running `pi.py` with 1M samples, then increase the number of samples used to estimate $\pi$.
+
+*Command* 
+
+```
+python3 pi.py 1000000
+```
+
+*Output*
+
+```
+$ python3 pi.py 1000000
+3.14000314000314
+$
+```
