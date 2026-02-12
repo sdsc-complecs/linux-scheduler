@@ -41,7 +41,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
 ### Tutorial
-- Processes, Threads, and the Scheduler
+- [Processes, Threads, and the Scheduler](PROCESS-THREAD-SCHEDULER.md)
 - Example problem: Estimating $\pi$ via Monte Carlo
 - Background vs. Foreground Processes
 - Using the `top` command
