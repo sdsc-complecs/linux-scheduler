@@ -45,7 +45,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - Example problem: Estimating $\pi$ via Monte Carlo
 - Background vs. Foreground Processes
 - Using the `top` command
-- Controlling Process Priority
+- Process Priority and Niceness
 
 ### Additional Reference(s):
 - 
