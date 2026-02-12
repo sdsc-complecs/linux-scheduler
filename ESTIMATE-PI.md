@@ -111,3 +111,24 @@ $ python3 pi.py 1000000
 3.14000314000314
 $
 ```
+
+### Measuring Runtime
+
+Measure the runtime of the program with the [`time`](https://en.wikipedia.org/wiki/Time_%28Unix%29) command.
+
+*Command* 
+
+```
+time -p python3 pi.py 1000000
+```
+
+*Output*
+
+```
+$ time -p python3 pi.py 1000000
+3.1445391445391446
+real 0.63
+user 0.62
+sys 0.01
+$
+```
