@@ -17,6 +17,7 @@ priority relative to the other processes running on your system.
 # Before you begin
 
 To complete the exercises covered in this tutorial, you will need access to a computer with either:
+
 - a Linux operating system (OS);
 - a [Unix-like](https://en.wikipedia.org/wiki/Unix-like) OS such as [macOS](https://en.wikipedia.org/wiki/MacOS);
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
