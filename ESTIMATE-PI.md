@@ -2,6 +2,8 @@
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_monte_carlo_all.gif' alt='NSF Logo' width='768'/>
 
+![test](https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_monte_carlo_all.gif)
+
 To explore managing procesess and threads with the Linux scheduler, we'll need some example programs to run. Here, we'll use the
 [4pi](https://github.com/mkandes/4pi) project, a collection of simple computer programs that estimate the value of $\pi$. 
 
