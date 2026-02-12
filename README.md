@@ -31,9 +31,9 @@ command-line tools, shell scripting, batch computing, data management, security,
 
 # Acknowledgements
 
-This material is based upon work supported by the [U.S. National Science Foundation](https://www.nsf.gov)
-under [Award No. CISE/OAC-2320934](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2320934).
-Any opinions, findings, conclusions, or recommendations expressed in this
-material are those of the authors and do not necessarily reflect the views of the NSF.
+This material is based upon work supported by the [U.S. National Science Foundation](https://www.nsf.gov) under 
+[Award No. CISE/OAC-2320934](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2320934). Any opinions, findings and conclusions
+or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the U.S.
+National Science Foundation.
 
 <img src='https://nsf.widen.net/content/josuwjrmy6/png/NSF_Official_logo_Med_Res_600ppi.png' alt='NSF Logo' width='250'/>
