@@ -2,9 +2,11 @@
 
 Understanding what a [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) is and how it works is fundamental to
 learning how to run your [batch computing](https://en.wikipedia.org/wiki/Batch_processing) workloads on 
-[high-performance computing (HPC)](https://en.wikipedia.org/wiki/High-performance_computing) systems. A scheduler manages all aspects of how your application will access and consume the compute, memory, storage, I/O, and network resources available to you
-on these systems. There are a number of different distributed batch job schedulers — also sometimes referred to as workload or
-resource managers — that you might encounter on an HPC system. For example, the 
+[high-performance computing (HPC)](https://en.wikipedia.org/wiki/High-performance_computing) systems. 
+
+A scheduler manages all aspects of how your application will access and consume the compute, memory, storage, I/O, and network
+resources available to you on these systems. There are a number of different distributed batch job schedulers — also sometimes 
+referred to as workload or resource managers — that you might encounter on an HPC system. For example, the 
 [Slurm Workload Manager](https://en.wikipedia.org/wiki/Slurm_Workload_Manager) is the most popular one in use today. However, at
 the core of every such system sits the Linux ([process](https://en.wikipedia.org/wiki/Process_(computing))) scheduler. 
 
