@@ -14,6 +14,10 @@ interact with the Linux scheduler on your personal computer by running a series 
 the most fundamental aspects of scheduling, including turning foreground processes into background ones and controlling their
 priority relative to the other processes running on your system.
 
+# Prerequisite Knowledge and Skills
+
+# Learning Goals
+
 # Before you begin
 
 To complete the exercises covered in this tutorial, you will need access to a computer with either:
@@ -23,7 +27,7 @@ To complete the exercises covered in this tutorial, you will need access to a co
 - a Linux-compatible OS environment such as the [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org/wiki/VirtualBox); or
 - a virtual machine running a Linux OS through a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) like [VirtualBox](https://www.virtualbox.org).
 
-# Prerequisite knowledge and skills
+# Start Here
 
 # Additional Reference(s):
 - 
