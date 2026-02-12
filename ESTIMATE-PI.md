@@ -1,7 +1,7 @@
 # Example Problem: Estimate $\pi$ via Monte Carlo
 
 To explore managing procesess and threads with the Linux scheduler, we'll need some example programs to run. Here, we'll use the
-[4$\pi$](https://github.com/mkandes/4pi) project, a collection of simple computer programs that estimate the value of $\pi$. 
+[4\$\pi$](https://github.com/mkandes/4pi) project, a collection of simple computer programs that estimate the value of $\pi$. 
 
 Each program in the 4$\pi$ collection differs only in the programming language it was written in, the set of features of the
 language it utilized, and/or the underlying mathematical algorithm it implemented to approximate the value of $\pi$. The aim of
