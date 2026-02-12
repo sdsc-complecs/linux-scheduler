@@ -29,7 +29,7 @@ COMPrehensive Learning for end-users to Effectively utilize CyberinfraStructure 
 teaches non-programming concepts and skills needed to effectively use supercomputers. Topics include parallel computing, Linux
 command-line tools, shell scripting, batch computing, data management, security, and how to get help.
 
-# Acknowledgements
+# Acknowledgement
 
 This material is based upon work supported by the [U.S. National Science Foundation](https://www.nsf.gov) under 
 [Award No. CISE/OAC-2320934](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2320934). Any opinions, findings and conclusions
