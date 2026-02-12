@@ -17,8 +17,15 @@ the most fundamental aspects of scheduling, including turning foreground process
 priority relative to the other processes running on your system.
 
 ### Learning Goals :bulb:
+- What is a process?
+- What is a thread?
+- What is the difference between foreground and background processes?
+- How to view processes and threads with the `top` command
+- How to control process priority
 
 ### Prerequisite Knowledge and Skills  :mortar_board:
+- Parallel Computing Concepts
+- Intermediate Linux and Shell Scripting
 
 ### Before You Begin :running: on :penguin:
 
