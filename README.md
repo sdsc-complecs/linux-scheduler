@@ -24,7 +24,7 @@ priority relative to the other processes running on your system.
 - How to control process priority
 
 ### Prerequisite Knowledge and Skills  :mortar_board:
-- Parallel Computing Concepts | [Webinar Recording](https://youtu.be/rRWR8lwhtzs)] | [Presentation Slides](https://drive.google.com/file/d/1cKtswqoee46o4Q7FU-zescCcwatPTk0N) | [GitHub Repository](https://github.com/sdsc-complecs/Parallel-computing-concepts)
+- Parallel Computing Concepts | [Webinar Recording](https://youtu.be/rRWR8lwhtzs) | [Presentation Slides](https://drive.google.com/file/d/1cKtswqoee46o4Q7FU-zescCcwatPTk0N) | [GitHub Repository](https://github.com/sdsc-complecs/Parallel-computing-concepts)
 - Intermediate Linux | [Webinar Recording](https://youtu.be/Y7Bu8KFAueA) | [Presentation Slides](https://drive.google.com/file/d/1POCBWwkTm3l6LLOmMG2ABjuOlsHLSEJj) | [GitHub Repository](https://github.com/sdsc-complecs/Intermediate-Linux)
 - Shell Scripting | [Webinar Recording](https://youtu.be/VSaxl92FkHg) | [Presentation Slides](https://drive.google.com/file/d/1mQfm-YEcfejKFUIUQTlqI51Q-dedTSsq) | [GitHub Repository](https://github.com/sdsc-complecs/shell-scripting)
 
